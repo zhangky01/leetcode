@@ -9,6 +9,7 @@ var leastInterval = function(tasks, n) {
     /**
      * 调度时间，取决于出现次数最多的任务。
      * (x - 1) * (n + 1) + 出现次数最多的任务数量
+     * 如果出现任务数量最多的种类>n+1,则调度时间就等于任务数量。
      */
     let taskMap = {};
     tasks.forEach(o => {
