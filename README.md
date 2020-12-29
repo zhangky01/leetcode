@@ -1,0 +1,8 @@
+# 概要
+用于个人练习，总结。
+# 数据来源
+>[力扣（LeetCode）](https://leetcode-cn.com/)
+# 题目类型
+## 贪心
+1. [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+2. [330. 按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)
