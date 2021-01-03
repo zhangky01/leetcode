@@ -5,6 +5,8 @@
 # 题目类型
 ## 数组，单双指针
 1. [239. 滑动窗口最大值(困难)(可双)](https://leetcode-cn.com/problems/sliding-window-maximum/)
+## 链表
+1. [86. 分隔链表(中等)](https://leetcode-cn.com/problems/partition-list/)
 ## 贪心
 1. [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 2. [330. 按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)
