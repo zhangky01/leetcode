@@ -15,3 +15,7 @@
 3. [605. 种花问题(简单)(可贪)](https://leetcode-cn.com/problems/can-place-flowers/)
 ## 堆
 1. [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+## 并查集
+1. [684. 冗余连接(中等)](https://leetcode-cn.com/problems/redundant-connection/)
+2. [1202. 交换字符串中的元素(中等)](https://leetcode-cn.com/problems/smallest-string-with-swaps/)
+3. [547. 省份数量(中等)](https://leetcode-cn.com/problems/number-of-provinces/)
