@@ -20,3 +20,4 @@
 2. [1202. 交换字符串中的元素(中等)](https://leetcode-cn.com/problems/smallest-string-with-swaps/)
 3. [547. 省份数量(中等)](https://leetcode-cn.com/problems/number-of-provinces/)
 4. [947. 移除最多的同行或同列石头(中等)](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)
+5. [803. 打砖块(困难)](https://leetcode-cn.com/problems/bricks-falling-when-hit/)
