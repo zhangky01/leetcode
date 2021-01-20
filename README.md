@@ -7,6 +7,7 @@
 1. [239. 滑动窗口最大值(困难)(可双)](https://leetcode-cn.com/problems/sliding-window-maximum/)
 2. [230. 较大分组的位置(简单)](https://leetcode-cn.com/problems/positions-of-large-groups/)
 3. [228. 汇总区间(简单)](https://leetcode-cn.com/problems/summary-ranges/)
+4. [628. 三个数的最大乘积(简单)](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 ## 链表
 1. [86. 分隔链表(中等)](https://leetcode-cn.com/problems/partition-list/)
 ## 贪心
